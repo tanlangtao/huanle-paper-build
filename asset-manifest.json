@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.43682b55.chunk.css",
+    "main.js": "./static/js/main.a6a97fc3.chunk.js",
+    "main.js.map": "./static/js/main.a6a97fc3.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.bda6d366.chunk.css": "./static/css/2.bda6d366.chunk.css",
+    "static/js/2.a9c4543b.chunk.js": "./static/js/2.a9c4543b.chunk.js",
+    "static/js/2.a9c4543b.chunk.js.map": "./static/js/2.a9c4543b.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.96e8517a28d54df8099d21a2ccd78360.js": "./precache-manifest.96e8517a28d54df8099d21a2ccd78360.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.bda6d366.chunk.css.map": "./static/css/2.bda6d366.chunk.css.map",
+    "static/css/main.43682b55.chunk.css.map": "./static/css/main.43682b55.chunk.css.map",
+    "static/media/index.scss": "./static/media/beijing.398b9589.jpg",
+    "static/media/ewm_wx1.jpg": "./static/media/ewm_wx1.f5260cb0.jpg",
+    "static/media/ewm_wx2.jpg": "./static/media/ewm_wx2.b3a68cac.jpg",
+    "static/media/newqibaologoe16.png": "./static/media/newqibaologoe16.e9f8e3c9.png",
+    "static/media/longon.scss": "./static/media/zhuce.74540c3c.png"
+  }
+}
